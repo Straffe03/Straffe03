@@ -1,4 +1,4 @@
-## HI!!! 👋🏻
+## Hi!! 👋🏻
 
 Welcome to my GitHub profile. I'm Mario Olaya, a **MULTIPLATFORM APPLICATION DEVELOPMENT** student. I'm very passionate about programing, video games and tecnology.
 
