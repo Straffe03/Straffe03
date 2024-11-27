@@ -1,15 +1,16 @@
-## ¡Hola! 👋🏻
+## HI!!! 👋🏻
 
-Bienvenido a mi perfil de GitHub. Soy Mario Olaya, un estudiante de **Desarrollo de Aplicaciones Multiplataforma** con pasión por la programación y la tecnología.
+Welcome to my GitHub profile. I'm Mario Olaya, a **MULTIPLATFORM APPLICATION DEVELOPMENT** student. I'm very passionate about programing, video games and tecnology.
 
-### 🚀 ¿Qué hago actualmente?
+### 🚀 What I spend my time on:
 
-- 🤺 **Aprendiendo**: Estudiando **java** y en mis ratos libres **Unreal engine**.
+- 🤺 **Learning**: I'm learning **java** and on my spare time I play around with **Unreal engine** to improve my skills.
+- 🎮 **Gaming**: I love gaming, but I'm most passionate about online games. Currently I'm enjoying Rainbow six siege and Valorant the most.
 
 ---
 
 
 
-### 🌐 Para contactar conmigo:
+### 🌐 Want to contact me?
 - LinkedIn: [linkedin.com/in/arthurolg](https://www.linkedin.com/in/lgzarturo/)
 - Email: MarioOlaya03@gmail.com
