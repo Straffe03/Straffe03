@@ -9,6 +9,11 @@ Welcome to my GitHub profile. I'm Mario Olaya, a **MULTIPLATFORM APPLICATION DEV
 
 ---
 
+### 🧠 Knowledge:
+
+- ⚙ **Recently learnt**: Springboot, Hibernate, MySql, Java, MongoDB, Spring security, HTML.
+
+---
 
 
 ### 🌐 Want to contact me?
