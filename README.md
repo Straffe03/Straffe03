@@ -17,5 +17,5 @@ Welcome to my GitHub profile. I'm Mario Olaya, a **MULTIPLATFORM APPLICATION DEV
 
 
 ### 🌐 Want to contact me?
-- LinkedIn: [linkedin.com/in/arthurolg](https://www.linkedin.com/in/mario-olaya-perez-7834032b3/)
+- LinkedIn: [https://www.linkedin.com/in/mario-olaya-perez-7834032b3/](https://www.linkedin.com/in/mario-olaya-perez-7834032b3/)
 - Email: MarioOlaya03@gmail.com
