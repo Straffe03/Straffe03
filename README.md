@@ -11,7 +11,8 @@ Welcome to my GitHub profile. I'm Mario Olaya, a **MULTIPLATFORM APPLICATION DEV
 
 ### 🧠 Knowledge:
 
-- ⚙ **Recently learnt**: Springboot, Hibernate, MySql, Java, MongoDB, Spring security, HTML.
+- ⚙ **Recently learnt**: Springboot, Hibernate, MySql, Java, MongoDB, Spring security, HTML, Kotlin for Android development, Retrofit2.
+- 🧠 **Work in progress**: Lately I learnt some Kotlin but I'm still perfecting my skills.
 
 ---
 
